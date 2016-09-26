@@ -6,6 +6,9 @@ import java.util.ArrayList;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentTransaction;
 import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
@@ -13,7 +16,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 
-public class ToDoList extends Activity {
+import static edu.bard.todolist_lab1.R.id.todolist_fragment;
+
+public class ToDoList extends FragmentActivity {
     public static String TAG = "todolab";
     private EditText mEditText; // enter todo item
     private Button mItemButton; // add the item to the list
@@ -22,11 +27,23 @@ public class ToDoList extends Activity {
     private ListView mListView;
 
     @Override
-    public void onCreate(Bundle stuff) {
-        super.onCreate(stuff);
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
 
         // Inflate your view
         setContentView(R.layout.main); // Extracts resources, autogenerates R.java from XML file
+
+        // FragmentManager
+        FragmentManager fm = getSupportFragmentManager();
+        ToDoListFragment toDoListFragment = (ToDoListFragment)fm.findFragmentById(R.id.todolist_fragment);
+        if (toDoListFragment != null){
+            FragmentTransaction ft = fm.beginTransaction();
+            ft.add(R.id.todolist_fragment, new ToDoListFragment());
+            //ft.add()  ADD SECOND FRAGMENT
+            ft.commit();
+        }
+
+
 
         // Get references to UI widgets
         mEditText = (EditText) findViewById(R.id.myEditText);

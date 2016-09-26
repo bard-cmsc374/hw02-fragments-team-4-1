@@ -2,18 +2,364 @@
 <items version="2" >
 
     <item
-        jar="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.0"
-        sha1="4a63887e622b74c0a36618c47005a83fcd38d6d7">
-        <dex dex="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ea1ffa2924c5d0704e8c51f83325d791b3d92742/classes.dex" />
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_309a4a784d1f6a54ff9d4be0877989aa7c02838a\classes.dex" />
     </item>
     <item
-        jar="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="24.0.0"
-        sha1="9d9fefbf934462157625a74329e9f52b060c2db4">
-        <dex dex="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a49d0c5c2b0f52460175ea76e5e60037fe3694b/classes.dex" />
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_6153a5586f7b18f5c2d213e9a3ab4e3200fec58c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_1bb77345b3ef4e5e7f16beb862434ea63025c6fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_5d19f46d553f6bf6292a81cd9bfff41f1ff58ee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_958831be953db02bd593715e64457a45c5c980a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2ee5f2d3c88ce584e511a3470a05873309b04808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_003aa87af5267b0d07bad8f230ad824489a3b24d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_d3f463c257a24fb2f174914ad8e8bc97902843b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="65e980e1e80bfdd2693f6ebd7c84b3c170ae3dc8">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_da5294cd5ac7e467eda71ad1da9114eeceb57415\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_6153a5586f7b18f5c2d213e9a3ab4e3200fec58c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_958831be953db02bd593715e64457a45c5c980a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_1bb77345b3ef4e5e7f16beb862434ea63025c6fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_003aa87af5267b0d07bad8f230ad824489a3b24d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cf7bc9e3d77408a93f7c447e06c0e19c72c99541\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_732254a26af1d9c36b33e11ac3fa1f90bcf329c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_d243579193fd1d79f051cba2f2d12006414d7d61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_d3f463c257a24fb2f174914ad8e8bc97902843b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="66d9aeee792e6fa2e62893c26af48dee59c370b5">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_da5294cd5ac7e467eda71ad1da9114eeceb57415\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_5eb6caee2373b5b98be4d8ed59840aa3aecb1ef4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_592ffea62a254347e918371e25b4599a5cfcf0a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8cfd15f2bbd86880640209ff3e2fb84b5f29c20e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_7774b10949905031962e5104f5845aff84c8ad2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_592ffea62a254347e918371e25b4599a5cfcf0a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2ee5f2d3c88ce584e511a3470a05873309b04808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8cfd15f2bbd86880640209ff3e2fb84b5f29c20e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_d243579193fd1d79f051cba2f2d12006414d7d61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1f64a1bf963001b98dd0cccdfead4dfa72ae6145">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d571a57c56c69f0f919f419f2551a200571bbfcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_429d5206bd35b7e428e5080157c855145c65e071\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_5c302577d371109300fa586fc9ac87ac0ee41df9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_5eb6caee2373b5b98be4d8ed59840aa3aecb1ef4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8f51c8c0e165b6e4aeef07bf1d3db740cf192f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a140abdda0515f39d132d857b9c33f4e584f67fa">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d571a57c56c69f0f919f419f2551a200571bbfcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_7774b10949905031962e5104f5845aff84c8ad2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_309a4a784d1f6a54ff9d4be0877989aa7c02838a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8f51c8c0e165b6e4aeef07bf1d3db740cf192f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_5d19f46d553f6bf6292a81cd9bfff41f1ff58ee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_732254a26af1d9c36b33e11ac3fa1f90bcf329c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_5c302577d371109300fa586fc9ac87ac0ee41df9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_429d5206bd35b7e428e5080157c855145c65e071\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Wren\Desktop\hw02-fragments-team-4-1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cf7bc9e3d77408a93f7c447e06c0e19c72c99541\classes.dex" />
     </item>
 
 </items>
