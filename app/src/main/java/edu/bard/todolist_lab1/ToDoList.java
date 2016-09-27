@@ -2,18 +2,20 @@ package edu.bard.todolist_lab1;
 
 
 import android.os.Bundle;
+import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentTransaction;
+import android.support.v4.app.ListFragment;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
 
+
 public class ToDoList extends FragmentActivity {
     public static String TAG = "todolab";
-    private EditText mEditText; // enter todo item
-    private Button mItemButton; // add the item to the list
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -22,26 +24,12 @@ public class ToDoList extends FragmentActivity {
         // Inflate your view
         setContentView(R.layout.main); // Extracts resources, autogenerates R.java from XML file
 
-        // FragmentManager (Add ListView Fragment)
+        // FragmentManager (Add ListView Fragment) & (Add Adder Fragment)
         FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
         ft.add(R.id.listview_fragment_container, new ListViewFragment());
+        ft.add(R.id.adder_fragment_container, new AdderFragment()); // Should be Adder Fragment
         ft.commit();
 
-
-        // Get references to UI widgets
-        mEditText = (EditText) findViewById(R.id.myEditText);
-        mItemButton = (Button) findViewById(R.id.addButton);
-
-
-        // Add key listener to add the new todo item
-        // when the middle D-pad button is pressed.
-        mItemButton.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                ListViewFragment.mToDoItems.add(0, mEditText.getText().toString());
-                ListViewFragment.aa.notifyDataSetChanged();
-                mEditText.setText("");
-            }
-        });
 
         Log.i(TAG, "Entered onCreate");
     }

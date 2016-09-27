@@ -5,25 +5,13 @@
               android:layout_width="fill_parent"
               android:layout_height="fill_parent">
 
+    <!-- Adder Fragment Container -->
   <LinearLayout
+      android:id="@+id/adder_fragment_container"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:orientation="horizontal">
-
-  <Button
-      android:id="@+id/addButton"
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      android:text="@string/add_button"
-      />
-
-
-  <EditText
-    android:id="@+id/myEditText"
-    android:layout_width="fill_parent" 
-    android:layout_height="wrap_content" 
-    android:text="@string/add_item_hint"
-  />
+      android:orientation="horizontal"
+      >
 
   </LinearLayout>
 

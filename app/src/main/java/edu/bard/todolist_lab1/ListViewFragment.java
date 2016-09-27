@@ -25,8 +25,6 @@ public class ListViewFragment extends Fragment {
     @Override
     public void onViewCreated(View view, Bundle savedInstanceState) {
         // Setup any handles to view objects here
-        // EditText etFoo = (EditText) view.findViewById(R.id.etFoo);
-
         // Get Reference to UI widgets
         mListView = (ListView) view.findViewById(R.id.myListView);
 

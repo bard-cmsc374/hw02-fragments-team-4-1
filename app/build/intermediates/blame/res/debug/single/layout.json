@@ -108,12 +108,12 @@
         "source": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
@@ -136,16 +136,20 @@
         "source": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+        "merged": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
         "merged": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adder_fragment.xml",
+        "source": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\src\\main\\res\\layout\\adder_fragment.xml"
     },
     {
         "merged": "C:\\Users\\Wren\\Desktop\\hw02-fragments-team-4-1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
