@@ -1858,6 +1858,7 @@ containing a value of this type.
         public static final int line3=0x7f0a0062;
         public static final int listMode=0x7f0a000a;
         public static final int list_item=0x7f0a002c;
+        public static final int listview_fragment_container=0x7f0a0058;
         public static final int media_actions=0x7f0a005c;
         public static final int middle=0x7f0a001d;
         public static final int multiply=0x7f0a0015;
@@ -1904,7 +1905,6 @@ containing a value of this type.
         public static final int time=0x7f0a005f;
         public static final int title=0x7f0a002e;
         public static final int title_template=0x7f0a0033;
-        public static final int todolist_fragment=0x7f0a0058;
         public static final int top=0x7f0a0024;
         public static final int topPanel=0x7f0a0032;
         public static final int up=0x7f0a0009;
@@ -1945,7 +1945,7 @@ containing a value of this type.
         public static final int abc_search_dropdown_item_icons_2line=0x7f030017;
         public static final int abc_search_view=0x7f030018;
         public static final int abc_select_dialog_material=0x7f030019;
-        public static final int list_fragment=0x7f03001a;
+        public static final int listview_fragment=0x7f03001a;
         public static final int main=0x7f03001b;
         public static final int notification_media_action=0x7f03001c;
         public static final int notification_media_cancel_action=0x7f03001d;
