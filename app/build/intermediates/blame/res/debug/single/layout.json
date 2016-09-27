@@ -1,6 +1,14 @@
 [
     {
-        "merged": "/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/home/sven/AndroidStudioProjects/ToDoList_lab1/app/src/main/res/layout/main.xml"
+        "merged": "C:\\Users\\knotm_000\\AndroidStudioProjects\\hw02-fragments-team-4-1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adder_fragment.xml",
+        "source": "C:\\Users\\knotm_000\\AndroidStudioProjects\\hw02-fragments-team-4-1\\app\\src\\main\\res\\layout\\adder_fragment.xml"
+    },
+    {
+        "merged": "C:\\home\\sven\\AndroidStudioProjects\\ToDoList_lab1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\home\\sven\\AndroidStudioProjects\\ToDoList_lab1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\knotm_000\\AndroidStudioProjects\\hw02-fragments-team-4-1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\knotm_000\\AndroidStudioProjects\\hw02-fragments-team-4-1\\app\\src\\main\\res\\layout\\main.xml"
     }
 ]

@@ -2,18 +2,102 @@
 <items version="2" >
 
     <item
-        jar="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
         revision="24.0.0"
-        sha1="4a63887e622b74c0a36618c47005a83fcd38d6d7">
-        <dex dex="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ea1ffa2924c5d0704e8c51f83325d791b3d92742/classes.dex" />
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_3fe4968944861c72bd7bc3e1f9f847ed7c987c0a.jar" />
     </item>
     <item
-        jar="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        jar="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
         revision="24.0.0"
-        sha1="9d9fefbf934462157625a74329e9f52b060c2db4">
-        <dex dex="/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4a49d0c5c2b0f52460175ea76e5e60037fe3694b/classes.dex" />
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_03b4f02c3e948dad46c241c6155b48e768f86844.jar" />
+    </item>
+    <item
+        jar="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_fb2d1b4f971421b3c2b8eedacfe2d9449d6f02cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_cae31597432ce747d31243e7b3f5239fd5b7f9e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\knotm_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_d71883574ac226dde0154f73b9ba63c891c1779b.jar" />
+    </item>
+    <item
+        jar="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_aeab3a72d275e70345852cf5b126561543ee355e.jar" />
+    </item>
+    <item
+        jar="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_be870a57f485f6ca22b9e89120e585b7fd193d76.jar" />
+    </item>
+    <item
+        jar="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1dcb8005f460d87baed0abdc9ec997a58797856e">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a9909edddb0d6a557bf495209c3629f92c776577.jar" />
+    </item>
+    <item
+        jar="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_10e61ae3edc18f92136a423450b1f58cf720b3c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6bf34c4b4fcd3f6913eca652d13c51dbde51c3a4">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-24.2.0_d8b1ea3b9c9ce030bd716e773c93933e4431e334.jar" />
+    </item>
+    <item
+        jar="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_69d2f5de5497fbc164cab3dca6e637fe51bc2ce8.jar" />
+    </item>
+    <item
+        jar="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_45fb3f46be22ba613e97877ae47f4acc6a602c9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_3d2d9ccfe446cc21b50427865afaa61fe416fd88.jar" />
+    </item>
+    <item
+        jar="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\knotm_000\AndroidStudioProjects\hw02-fragments-team-4-1\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2fe740a70ebda068fbc2ca28010b7e347b15db42.jar" />
     </item>
 
 </items>
