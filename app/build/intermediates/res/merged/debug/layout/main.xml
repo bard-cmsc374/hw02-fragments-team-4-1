@@ -5,6 +5,7 @@
               android:layout_width="fill_parent"
               android:layout_height="fill_parent">
 
+    <!-- Adder Fragment Container -->
   <LinearLayout
       android:id="@+id/adder_fragment_container"
       android:layout_width="match_parent"

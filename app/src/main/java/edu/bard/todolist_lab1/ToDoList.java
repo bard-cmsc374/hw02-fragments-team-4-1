@@ -11,7 +11,51 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+/*
 
+
+CMSC 374
+HW #2 Fragments: Feedback
+
+Names: Ben (Min?) and Chance
+
+     Rubric
+----------------------------------------------------------
+40	1. App functions correctly from end user perspective.
+20	2. Fragments are correctly created.
+5	3. Fragments share information on the adapter arraylist.
+10	4. Code is clearly commented.
+20	5. Code is readable and well constructed.
+
+Score: 95
+
+
+----------------
+
+Comments
+
+My comments in your code are marked with XX in a comment.
+
+
+
+1. App functions correctly from end user perspective. YES, resources used, too.
+
+2. Fragments are correctly created.
+
+3. Fragments share information on the adapter arraylist.   Using
+statics is not quite the right approach, since it's too limiting.
+
+
+4. Code is clearly commented.
+Good!
+
+
+5. Code is readable and well constructed.
+Yes...good throughout.
+
+
+
+ */
 
 public class ToDoList extends FragmentActivity {
     public static String TAG = "todolab";

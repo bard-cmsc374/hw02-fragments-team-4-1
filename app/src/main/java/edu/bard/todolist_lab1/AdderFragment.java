@@ -37,6 +37,9 @@ public class AdderFragment  extends Fragment{
 
         mItemButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
+                // XX You make this happen by making it static---which is too limiting,
+                // since there is only one per class, not per object.
+                // You need to communicate via the activity parent.
                 ListViewFragment.mToDoItems.add(0, mEditText.getText().toString());
                 ListViewFragment.aa.notifyDataSetChanged();
                 mEditText.setText("");
